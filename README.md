@@ -1,3 +1,10 @@
+> ！！！**声明**：此模块非本人原创，[原版在这(npm)](https://www.npmjs.com/package/aliware-csb)。由于其npm上没有链接GitHub，无法提pr，而且README中给出的GitHub地址是一个sdk集合，无法直接npm install。但是我们团队在使用此模块过程中发现在使用react类的H5页面发起请求的时候会提示response.req为undefined，所以才有了这个版本。
+
+
+> 以下README，来自于其[npm](https://www.npmjs.com/package/aliware-csb)2018年4月25号版本。
+
+
+
 Aliware CSB HTTP-SDK for Node.js
 ==================================
 
